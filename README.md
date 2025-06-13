@@ -53,3 +53,13 @@ Dúplex con terraza-solarium privada y vistas a la montaña.
 </sumary>
 </details>
 
+> ## Normas de la Casa
+
+- No se admiten mascotas
+- No se admiten fiestas o eventos
+- No se puede hacer ruido a partir de las 22:00
+- Check-in: de 14:00 a 20:00
+- Chek-out: antes de las 11:00
+- El Check-in se puede retrasar después de las 14:00 en función del número de entradas y siempre será antes de las 17:00
+- Cargo obligatorio de limpieza de 30€, debe seleccionarlo al hacer la reserva, en caso contrario se añadirá al recibir la confirmación
+
