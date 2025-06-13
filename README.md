@@ -9,4 +9,41 @@
 > Un lugar ideal para sus vacaciones donde podrá descansar y disfrutar de la naturaleza, las playas y el buen tiempo.
 
 
+GRACIOSAMAR 1-3 <details> 
+<sumary>
+3 apartamentos en planta baja.
+
+
+</sumary>
+</details>
+
+GRACIOSAMAR 4<details> 
+<sumary>
+1 apartamento en planta baja.
+</sumary>
+</details>
+
+GRACIOSAMAR 5-6<details> 
+<sumary>
+2 apartamentos en planta alta con terraza-solarium privada y vistas al mar.
+</sumary>
+</details>
+
+GRACIOSAMAR 7<details> 
+<sumary>
+Casa independiente en planta baja con terraza-solarium privada y vistas al mar.
+</sumary>
+</details>
+
+ GRACIOSAMAR 8<details> 
+<sumary>
+Dúplex con terraza-solarium privada y vistas al mar.
+</sumary>
+</details>
+
+GRACIOSAMAR 9<details> 
+<sumary>
+Dúplex con terraza-solarium privada y vistas a la montaña.
+</sumary>
+</details>
 
