@@ -9,6 +9,12 @@
 > Un lugar ideal para sus vacaciones donde podrá descansar y disfrutar de la naturaleza, las playas y el buen tiempo.
 
 
+ --------------------------------------------------------------------
+
+
+> ## Diversidad de Apartamentos
+
+
 GRACIOSAMAR 1-3 <details> 
 <sumary>
 3 apartamentos en planta baja.
